@@ -1,0 +1,4 @@
+Family Type,passengers,survivors,survival_rate_pct,avg_fare,avg_age
+Large (5+),62,10,16.1,58.29,18.8
+Small (2-4),292,169,57.9,46.82,27.8
+Solo,537,163,30.4,21.24,31.0
