@@ -1,7 +1,7 @@
 # Titanic Survival Analysis: Project Report
 
 **Author:** Derrick D. Agbenorto
-**Programme:** Swynex Data Analytics Internship, Task 3
+**Programme:** Swynex Data Analytics Internship, Task 4
 **Tools:** Power BI Desktop (DAX), Python (pandas) for verification
 **Date:** November 2026
 
