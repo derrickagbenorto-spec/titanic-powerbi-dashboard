@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project: problem statement, dataset profiling, cleaning, analysis, an interactive Power BI dashboard and business insights.
 
-Built by **Derrick D. Agbenorto** as Task 3 of the **Swynex** data analytics internship.
+Built by **Derrick D. Agbenorto** as Task 4 of the **Swynex** data analytics internship.
 
 ![Dashboard](images/dashboard.png)
 
